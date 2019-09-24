@@ -1,0 +1,6 @@
+{
+  "run_mmap.dosefile": "../mmaptest/MMAP.github.io/files/genotypes.txt",
+  "run_mmap.pedfile": "../mmaptest/MMAP.github.io/files/pedigree.txt",
+  "run_mmap.phenofile": "../mmaptest/MMAP.github.io/files/phenotype.txt",
+  "run_mmap.phenotype_id": "SUBJECT"
+}
