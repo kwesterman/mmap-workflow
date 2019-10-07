@@ -1,6 +1,7 @@
 {
-  "run_mmap.dosefile": "../mmaptest/MMAP.github.io/files/genotypes.txt",
-  "run_mmap.pedfile": "../mmaptest/MMAP.github.io/files/pedigree.txt",
-  "run_mmap.phenofile": "../mmaptest/MMAP.github.io/files/phenotype.txt",
-  "run_mmap.phenotype_id": "SUBJECT"
+  "run_mmap.bin_dosefiles": ["testfiles/bin_dose", "testfiles/bin_dose"],
+  "run_mmap.pedfile": "testfiles/pedigree.txt",
+  "run_mmap.phenofile": "testfiles/phenotype.txt",
+  "run_mmap.phenotype_id": "SUBJECT",
+  "run_mmap.memory": "1"
 }
