@@ -1,7 +1,10 @@
 {
-  "run_mmap.bin_dosefiles": ["testfiles/bin_dose", "testfiles/bin_dose"],
-  "run_mmap.pedfile": "testfiles/pedigree.txt",
-  "run_mmap.phenofile": "testfiles/phenotype.txt",
-  "run_mmap.phenotype_id": "SUBJECT",
+  "run_mmap.bin_dosefiles": ["testfiles/chr22subset.dose.mach_bin"],
+  "run_mmap.pedfile": "../gxe-pheno-simulation/data/processed/sim_unrelated_pedigree.csv",
+  "run_mmap.phenofile": "../gxe-pheno-simulation/data/processed/smk_bp_sim_phenos.csv",
+  "run_mmap.phenotype_id": "id",
+  "run_mmap.trait": "bp_sim",
+  "run_mmap.covars": "smk_sim sex age",
+  "run_mmap.interaction_var": "smk_sim",
   "run_mmap.memory": "1"
 }
